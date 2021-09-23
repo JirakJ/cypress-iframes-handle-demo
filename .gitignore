@@ -1,0 +1,4 @@
+/.idea/
+/node_modules/
+/cypress-iframe-handle.iml
+/package-lock.json
